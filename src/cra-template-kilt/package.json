@@ -1,0 +1,13 @@
+{
+    "name": "cra-template-kilt",
+    "version": "0.1.0",
+    "description": "The base Typescript template for KILT front end.",
+    "license": "MIT",
+    "engines": {
+        "node": ">=14"
+    },
+    "files": [
+        "template",
+        "template.json"
+    ]
+}

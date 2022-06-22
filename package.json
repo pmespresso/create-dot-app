@@ -1,0 +1,19 @@
+{
+  "name": "create-dot-app",
+  "version": "1.0.0",
+  "description": "boilerplate frontend repository generator for Polkadot apps on top of CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmespresso/create-dot-app.git"
+  },
+  "author": "pmespresso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmespresso/create-dot-app/issues"
+  },
+  "homepage": "https://github.com/pmespresso/create-dot-app#readme"
+}
