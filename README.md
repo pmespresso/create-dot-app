@@ -13,7 +13,7 @@ That's it!
 
 Then you can start it up with:
 
-'''
+```
 $ cd my-subsocial-app
 $ yarn && yarn start
-'''
+```
