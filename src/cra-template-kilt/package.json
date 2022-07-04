@@ -1,13 +1,22 @@
 {
-    "name": "cra-template-kilt",
-    "version": "0.1.0",
-    "description": "The base Typescript template for KILT front end.",
-    "license": "MIT",
-    "engines": {
-        "node": ">=14"
-    },
-    "files": [
-        "template",
-        "template.json"
-    ]
+  "name": "cra-template-kilt",
+  "version": "0.1.0",
+  "description": "The base Typescript template for a KILT front end that connects to a Kilt Sprite node through Sporran wallet and can fetch/create a web3name.",
+  "keywords": [
+    "Kilt",
+    "Polkadot",
+    "Substrate",
+    "Create-react-app",
+    "react",
+    "template",
+    "cra"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }

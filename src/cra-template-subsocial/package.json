@@ -1,7 +1,8 @@
 {
   "name": "cra-template-subsocial",
+  "description": "Template UI for connecting to a Subsocial node and getting spaces.",
+  "keywords": ["Subsocial", "Polkadot", "Substrate", "Create-react-app", "react", "template", "cra"],
   "version": "0.1.0",
-  "private": true,
   "engines": {
     "node": ">=16"
   },

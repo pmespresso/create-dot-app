@@ -1,13 +1,22 @@
 {
-    "name": "cra-template-crust",
-    "version": "0.1.0",
-    "description": "The base Typescript template for Crust front end.",
-    "license": "MIT",
-    "engines": {
-        "node": ">=16"
-    },
-    "files": [
-        "template",
-        "template.json"
-    ]
+  "name": "cra-template-crust",
+  "version": "0.1.0",
+  "description": "The base Typescript template for Crust front end that can fetch an file off Crust IPFS and can then pin on Crust Maxwell (make sure to have sufficient CRU).",
+  "keywords": [
+    "Kilt",
+    "Polkadot",
+    "Substrate",
+    "Create-react-app",
+    "react",
+    "template",
+    "cra"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
