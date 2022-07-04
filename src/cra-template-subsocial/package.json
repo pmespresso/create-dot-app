@@ -1,0 +1,12 @@
+{
+  "name": "cra-template-subsocial",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
