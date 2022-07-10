@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-kintsugi",
+  "publishConfig": {
+    "@yjkimjunior:registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/pmespresso/create-dot-app/tree/main/src/cra-template-kintsugi.git",
+  "description": "Template UI for building on top of Kintsugi through Subsquid Graphql API.",
+  "keywords": [
+    "Subsquid",
+    "Graphql",
+    "Kintsugi",
+    "Interlay",
+    "Polkadot",
+    "Substrate",
+    "Create-react-app",
+    "react",
+    "template",
+    "cra"
+  ],
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
